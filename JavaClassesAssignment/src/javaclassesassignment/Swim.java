@@ -10,7 +10,7 @@ package javaclassesassignment;
  * @author Breakthru
  */
 public class Swim {
-    public void backstroke(){
+    public void backStroke(){
         System.out.println("This is a style of swimming - Backstroke");
     }
     public void butterfly(){

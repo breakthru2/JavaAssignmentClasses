@@ -13,7 +13,7 @@ public class Run {
     public void hundredMeters(){
         System.out.println("This is a hundred meters race");
     }
-    public void crossCountry(){
+        public void crossCountry(){
         System.out.println("This is a cross country race");
     }
 }

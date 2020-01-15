@@ -10,10 +10,10 @@ package javaclassesassignment;
  * @author Breakthru
  */
 public class Run {
-    public void HundredMeters(){
+    public void hundredMeters(){
         System.out.println("This is a hundred meters race");
     }
-    public void CrossCountry(){
+    public void crossCountry(){
         System.out.println("This is a cross country race");
     }
 }

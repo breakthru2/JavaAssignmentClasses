@@ -10,5 +10,10 @@ package javaclassesassignment;
  * @author Breakthru
  */
 public class Soccer {
-    
+    public void rugby(){
+        System.out.println("This is an american footbal style");
+    }
+    public void football(){
+        System.out.println("This is an international style of football");
+    }
 }
